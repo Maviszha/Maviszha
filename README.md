@@ -19,16 +19,11 @@ Jika Anda memiliki pertanyaan seputar pengembangan SLiMS atau sekadar ingin berb
 
 ### 📊 Statistik GitHub Saya
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maviszha&show_icons=true&theme=radical" alt="Maviszha's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maviszha&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</div>
+![Maviszha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maviszha&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maviszha&layout=compact&theme=radical)
 
 <br>
 
 ### 🐍 Riwayat Aktivitas
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maviszha/Maviszha/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="
+![GitHub Snake](https://raw.githubusercontent.com/Maviszha/Maviszha/output/github-snake.svg)
