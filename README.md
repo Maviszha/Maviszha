@@ -17,13 +17,24 @@ Jika Anda memiliki pertanyaan seputar pengembangan SLiMS atau sekadar ingin berb
 
 ---
 
-### 📊 Statistik GitHub Saya
+### 💻 Bahasa & Teknologi
 
-![Maviszha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maviszha&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maviszha&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</div>
 
 <br>
 
 ### 🐍 Riwayat Aktivitas
 
-![GitHub Snake](https://raw.githubusercontent.com/Maviszha/Maviszha/output/github-snake.svg)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maviszha/Maviszha/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maviszha/Maviszha/output/github-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Maviszha/Maviszha/output/github-snake.svg">
+  </picture>
+</div>
